@@ -11,6 +11,6 @@ A collection of beginner-friendly C programs: number guessing game, to-do list, 
 ## How to Run
 
 ```bash
-gcc filename.c -o program
+gcc filename.c -o program 
 ./program
 ```
